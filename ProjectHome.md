@@ -1,0 +1,1 @@
+A service that reads, parses an ISO8583 message, transfer it to OFS format and send to T24CoreBanking
